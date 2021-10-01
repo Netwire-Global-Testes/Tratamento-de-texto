@@ -4,6 +4,8 @@ Neste desafio, vamos testar suas habilidades de lógica de programação e conhe
 
 Desenvolva um algoritmo que solucione o problema proposto abaixo de forma automatizada e que possa ser aplicada a outros arquvivos com estrutura semelhante. Você está livre para utilizar qualquer tecnologia ou ferramenta.
 
+Faça a devolução com o algoritmo desenvolvido, instruções de como executar o algoritmo e uma explicação do raciocínio por trás do desenvolvimento.
+
 -----------
 ### Crie um programa que processa o arquivo TextoExemplo.txt e mostra o seguinte resultado
 
